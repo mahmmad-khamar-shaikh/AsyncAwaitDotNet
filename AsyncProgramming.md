@@ -5,6 +5,6 @@ Its programming paradigm used to provide flawless user experience because user i
 >| ------ | ----------- |
 >|   Threading (Low-Level)   | Task & Parallel Library |
 >| Background Worker (Event Based Async Pattern) | Async & Await |
->| ext    | extension to be used for dest files. |
+
 
 
